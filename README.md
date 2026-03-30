@@ -14,7 +14,6 @@
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/></a>
   <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Internet_of_things" target="_blank"><img src="https://img.icons8.com/color/48/internet-of-things.png" alt="IoT" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/></a>
@@ -25,6 +24,8 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://insomnia.rest/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
@@ -79,11 +80,19 @@
 
 ### 🌱 Evolução Técnica e Projetos
 <p align="left">
-Atualmente, foco na consolidação de arquiteturas robustas e escaláveis, utilizando meus projetos principais como laboratórios de boas práticas em <strong>.NET</strong> e <strong>Next.js</strong>:
+Atualmente, foco na consolidação de arquiteturas robustas e escaláveis, utilizando meus projetos principais como laboratórios de boas práticas em <strong>.NET</strong> e <strong>Next.js</strong>. Confira ⬇️ ⬇️ ⬇️
 </p>
 
-<ul>
-<li><strong>VH_Burguer, Royal_Games e Gestao_Patrimonios:</strong> Ecossistemas completos integrando Back-end em C#, Front-end em TypeScript/Next.js e persistência de dados otimizada.</li>
+
+<ul> <li>
+  <strong>Sistemas Corporativos: 
+    <a href="https://github.com/Isaque-Codes/VH_Burguer">VH_Burguer</a>, 
+    <a href="https://github.com/Isaque-Codes/Royal_Games">Royal_Games</a> e 
+    <a href="https://github.com/Isaque-Codes/Gestao_Patrimonios">Gestao_Patrimonios</a>
+  </strong> — Ecossistemas Full-stack focados em regras de negócio complexas.
+  <br />
+  <strong>Destaques Técnicos:</strong> Implementação de fluxos completos integrando Back-end em <strong>C# (.NET 8)</strong> com interfaces dinâmicas em <strong>TypeScript e Next.js</strong>. Aplico padrões de persistência de dados otimizada e comunicação eficiente entre camadas para garantir a escalabilidade e a performance exigida em ambientes de produção.
+</li>
 </ul>
 
 **Em sequência no meu Roadmap de Especialização:**
@@ -96,11 +105,12 @@ Atualmente, foco na consolidação de arquiteturas robustas e escaláveis, utili
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaque-Codes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Codes&layout=compact&langs_count=7&theme=dracula" height="180em" />
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Isaque-Codes&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&force_cache=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaque-Codes&theme=dracula&force_cache=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Isaque-Codes&theme=dracula&layout=compact&include_all_commits=true&count_private=true&force_cache=true" height="170" />
 </p>
 
 ---
